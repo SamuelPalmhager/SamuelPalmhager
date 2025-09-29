@@ -2,7 +2,7 @@ Hej!
 
 Jag heter Samuel Palmhager, jag är nyexaminerad högskoleingenjör i datateknik och mobil IT från Malmö Universitet.  
 
-I denna Github hittar ni några projekt som sudoku-app och betygförutsägare av produktrecensioner frpn Amazon. 
+I denna Github hittar ni några projekt som sudoku-app och betygförutsägare av produktrecensioner från Amazon. 
   
 Jag är ivrig att får fortsätta mitt intresse i programmering genom att skapa ytterligare projekt som intresserar mig och utöka min arsenal av testramverk (pytest/google test) och byggverktyg (bazel). 
 
